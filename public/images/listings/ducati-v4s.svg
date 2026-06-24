@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f4e3e0"/>
+  <rect y="560" width="1200" height="240" fill="#dfc1bd"/>
+  <path d="M335 492h185l88 52h108l72 48H522z" fill="#b81f2a"/>
+  <path d="M486 452h102l66 46H482z" fill="#24262c"/>
+  <circle cx="416" cy="628" r="76" fill="#1e2026"/>
+  <circle cx="770" cy="628" r="76" fill="#1e2026"/>
+  <circle cx="416" cy="628" r="28" fill="#dde2e6"/>
+  <circle cx="770" cy="628" r="28" fill="#dde2e6"/>
+  <text x="84" y="112" fill="#4d2224" font-family="Georgia, serif" font-size="56" font-weight="700">Ducati Panigale</text>
+  <text x="86" y="158" fill="#7b4b4f" font-family="Inter, Arial, sans-serif" font-size="24">V4S superbike</text>
+</svg>
