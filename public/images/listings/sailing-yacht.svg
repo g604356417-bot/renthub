@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e2efe9"/>
+  <rect y="470" width="1200" height="330" fill="#70a7b8"/>
+  <path d="M320 510h350l150 84H230z" fill="#f5f3ef"/>
+  <path d="M538 214v300" stroke="#6f5649" stroke-width="18"/>
+  <path d="M555 240l186 188H555z" fill="#f1dcc3"/>
+  <path d="M525 278 370 472h155z" fill="#fff9f1"/>
+  <circle cx="838" cy="142" r="56" fill="#f7d788"/>
+  <text x="84" y="112" fill="#23445c" font-family="Georgia, serif" font-size="56" font-weight="700">Sun Odyssey 410</text>
+  <text x="86" y="158" fill="#4d7380" font-family="Inter, Arial, sans-serif" font-size="24">Sailing yacht</text>
+</svg>
