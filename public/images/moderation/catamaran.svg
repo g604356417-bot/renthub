@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e1eef1"/>
+  <rect y="500" width="1200" height="300" fill="#78aebf"/>
+  <path d="M320 510h360l100 74H260z" fill="#f4f5f1"/>
+  <path d="M382 584h56v72h-86z" fill="#485e65"/>
+  <path d="M620 584h56v72h86z" fill="#485e65"/>
+  <path d="M540 214v296" stroke="#70594d" stroke-width="16"/>
+  <path d="M556 242l180 188H556z" fill="#f1ddc7"/>
+  <text x="84" y="112" fill="#28475a" font-family="Georgia, serif" font-size="56" font-weight="700">Pending: Catamaran</text>
+</svg>
