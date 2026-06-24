@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ebe8e1"/>
+  <rect y="560" width="1200" height="240" fill="#cbc5bb"/>
+  <rect x="360" y="360" width="320" height="120" rx="24" fill="#d8a949"/>
+  <rect x="430" y="310" width="120" height="70" rx="18" fill="#22252a"/>
+  <path d="M410 478 330 620" stroke="#3c3f45" stroke-width="22" stroke-linecap="round"/>
+  <path d="M500 478 450 640" stroke="#3c3f45" stroke-width="22" stroke-linecap="round"/>
+  <path d="M610 478 670 640" stroke="#3c3f45" stroke-width="22" stroke-linecap="round"/>
+  <path d="M670 468 790 620" stroke="#3c3f45" stroke-width="22" stroke-linecap="round"/>
+  <text x="84" y="112" fill="#38342d" font-family="Georgia, serif" font-size="56" font-weight="700">Spot Robot</text>
+  <text x="86" y="158" fill="#6b665e" font-family="Inter, Arial, sans-serif" font-size="24">Inspection and events platform</text>
+</svg>
