@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f0e9e3"/>
+  <rect y="560" width="1200" height="240" fill="#d8ccc1"/>
+  <path d="M205 510h610l92 102H155z" fill="#272a31"/>
+  <path d="M325 425h255l112 86H252z" fill="#8a7a6f"/>
+  <rect x="375" y="447" width="102" height="50" rx="8" fill="#dce3ea"/>
+  <rect x="486" y="447" width="102" height="50" rx="8" fill="#dce3ea"/>
+  <circle cx="326" cy="618" r="74" fill="#1d2025"/>
+  <circle cx="769" cy="618" r="74" fill="#1d2025"/>
+  <circle cx="326" cy="618" r="28" fill="#dae1e5"/>
+  <circle cx="769" cy="618" r="28" fill="#dae1e5"/>
+  <text x="84" y="112" fill="#2f2520" font-family="Georgia, serif" font-size="56" font-weight="700">BMW M4</text>
+  <text x="86" y="158" fill="#71645d" font-family="Inter, Arial, sans-serif" font-size="24">Competition coupe</text>
+</svg>
