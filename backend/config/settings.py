@@ -56,16 +56,21 @@ TEMPLATES = [
 WSGI_APPLICATION = "config.wsgi.application"
 ASGI_APPLICATION = "config.asgi.application"
 
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": os.getenv("POSTGRES_DB", "renthub"),
-        "USER": os.getenv("POSTGRES_USER", "renthub"),
-        "PASSWORD": os.getenv("POSTGRES_PASSWORD", "renthub"),
-        "HOST": os.getenv("POSTGRES_HOST", "postgres"),
-        "PORT": os.getenv("POSTGRES_PORT", "5432"),
+import dj_database_url as _dj_db_url
+_DATABASE_URL = os.getenv("DATABASE_URL")
+if _DATABASE_URL:
+    DATABASES = {"default": _dj_db_url.config(default=_DATABASE_URL, conn_max_age=600)}
+else:
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.postgresql",
+            "NAME": os.getenv("POSTGRES_DB", "renthub"),
+            "USER": os.getenv("POSTGRES_USER", "renthub"),
+            "PASSWORD": os.getenv("POSTGRES_PASSWORD", "renthub"),
+            "HOST": os.getenv("POSTGRES_HOST", "postgres"),
+            "PORT": os.getenv("POSTGRES_PORT", "5432"),
+        }
     }
-}
 
 AUTH_PASSWORD_VALIDATORS = []
 
