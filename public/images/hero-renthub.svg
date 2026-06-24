@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4eadf"/>
+      <stop offset="100%" stop-color="#dcc1a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="650" cy="180" r="120" fill="#c67e4b" opacity=".18"/>
+  <circle cx="180" cy="760" r="160" fill="#4f6e7a" opacity=".12"/>
+  <path d="M140 630h520l48 110H92z" fill="#3a4a4f"/>
+  <path d="M225 560h250l90 70H170z" fill="#51646c"/>
+  <circle cx="235" cy="742" r="56" fill="#182125"/>
+  <circle cx="565" cy="742" r="56" fill="#182125"/>
+  <circle cx="235" cy="742" r="24" fill="#d9dee1"/>
+  <circle cx="565" cy="742" r="24" fill="#d9dee1"/>
+  <rect x="270" y="585" width="118" height="54" rx="10" fill="#dce8ec" opacity=".85"/>
+  <rect x="399" y="585" width="118" height="54" rx="10" fill="#dce8ec" opacity=".85"/>
+  <text x="80" y="120" fill="#43352e" font-family="Georgia, serif" font-size="54" font-weight="700">RentHub</text>
+  <text x="80" y="175" fill="#7b5d4d" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="4">ANYTHING. ANYWHERE.</text>
+</svg>
