@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ececf0"/>
+  <rect y="560" width="1200" height="240" fill="#d6d5dd"/>
+  <path d="M220 516h580l108 78H150z" fill="#4f6f9c"/>
+  <path d="M356 438h252l120 78H286z" fill="#6a8fc0"/>
+  <circle cx="336" cy="620" r="70" fill="#23272b"/>
+  <circle cx="776" cy="620" r="70" fill="#23272b"/>
+  <text x="84" y="112" fill="#35394a" font-family="Georgia, serif" font-size="56" font-weight="700">Pending: Taycan Turbo S</text>
+</svg>
