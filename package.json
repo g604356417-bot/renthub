@@ -1,0 +1,4 @@
+{
+  "name": "renthub",
+  "scripts": {"build": "next build"}
+}
