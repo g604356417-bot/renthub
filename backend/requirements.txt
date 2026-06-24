@@ -1,0 +1,16 @@
+Django>=5.1,<5.3
+psycopg[binary]>=3.2,<3.4
+django-cors-headers>=4.7,<4.8
+
+# Parser
+requests>=2.32,<3
+feedparser>=6.0,<7
+beautifulsoup4>=4.12,<5
+lxml>=5.2,<6
+
+# Celery + Redis
+celery>=5.4,<6
+redis>=5.0,<6
+django-celery-beat>=2.6,<3
+django-celery-results>=2.5,<3
+gunicorn>=22.0,<23
