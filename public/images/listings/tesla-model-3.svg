@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e8edf0"/>
+  <rect y="560" width="1200" height="240" fill="#cfd9de"/>
+  <path d="M210 500h570l90 110H150z" fill="#33444d"/>
+  <path d="M345 420h250l105 80H260z" fill="#ea5d54"/>
+  <circle cx="330" cy="620" r="74" fill="#1f262b"/>
+  <circle cx="760" cy="620" r="74" fill="#1f262b"/>
+  <circle cx="330" cy="620" r="28" fill="#dde4e8"/>
+  <circle cx="760" cy="620" r="28" fill="#dde4e8"/>
+  <text x="84" y="112" fill="#21323a" font-family="Georgia, serif" font-size="56" font-weight="700">Tesla Model 3</text>
+  <text x="86" y="158" fill="#5b6f78" font-family="Inter, Arial, sans-serif" font-size="24">Electric sedan</text>
+</svg>
