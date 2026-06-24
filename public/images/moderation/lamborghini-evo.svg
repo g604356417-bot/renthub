@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#f6e9dd"/>
+  <rect y="560" width="1200" height="240" fill="#e8c8a4"/>
+  <path d="M220 518h530l120 72H154z" fill="#8ab35d"/>
+  <path d="M390 446h230l120 72H292z" fill="#9ad06b"/>
+  <circle cx="340" cy="620" r="68" fill="#23272b"/>
+  <circle cx="754" cy="620" r="68" fill="#23272b"/>
+  <text x="84" y="112" fill="#5e472e" font-family="Georgia, serif" font-size="56" font-weight="700">Pending: Huracan EVO</text>
+</svg>
