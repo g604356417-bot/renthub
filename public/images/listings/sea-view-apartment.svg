@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ecf0e1"/>
+  <rect y="500" width="1200" height="300" fill="#8ec2cf"/>
+  <rect x="250" y="180" width="520" height="340" rx="18" fill="#f7f4ee"/>
+  <rect x="300" y="240" width="160" height="120" fill="#b8d9e5"/>
+  <rect x="500" y="240" width="160" height="120" fill="#b8d9e5"/>
+  <rect x="300" y="390" width="160" height="120" fill="#b8d9e5"/>
+  <rect x="500" y="390" width="160" height="120" fill="#b8d9e5"/>
+  <rect x="820" y="250" width="140" height="140" rx="70" fill="#f7d28a"/>
+  <text x="84" y="112" fill="#33433d" font-family="Georgia, serif" font-size="56" font-weight="700">Sea View Apartment</text>
+  <text x="86" y="158" fill="#61706a" font-family="Inter, Arial, sans-serif" font-size="24">Pool, terrace, smart home</text>
+</svg>
