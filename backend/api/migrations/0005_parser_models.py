@@ -60,17 +60,7 @@ class Migration(migrations.Migration):
             name='imported_at',
             field=models.DateTimeField(blank=True, null=True),
         ),
-        # Fix city to allow blank
-        migrations.AlterField(
-            model_name='listing',
-            name='city',
-            field=models.CharField(blank=True, max_length=128),
         ),
-        # Fix price to allow 0
-        migrations.AlterField(
-            model_name='listing',
-            name='price_per_day',
-            field=models.PositiveIntegerField(default=0),
         ),
         # ParserSource model
         migrations.CreateModel(
